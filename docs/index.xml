@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://borisovskayaalena.github.io/phugo/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Oct 2016 19:16:34 +0300</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://borisovskayaalena.github.io/phugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Album Nine Title</title>
-      <link>http://example.org/album-nine_index/</link>
+      <link>https://borisovskayaalena.github.io/phugo/album-nine_index/</link>
       <pubDate>Fri, 21 Oct 2016 19:16:34 +0300</pubDate>
       
-      <guid>http://example.org/album-nine_index/</guid>
+      <guid>https://borisovskayaalena.github.io/phugo/album-nine_index/</guid>
       <description>Magna feugiat lorem Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.
   Nisl adipiscing Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.
   Tempus aliquam veroeros Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.
